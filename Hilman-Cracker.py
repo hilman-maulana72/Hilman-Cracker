@@ -1,6 +1,6 @@
 # Coded by DulLah (fb.me/dulahz) --
 # Recode By Ikra-18
-import os, re, requests, concurrent.futures
+import os, re, concurrent.futures
 from random import randint
 
 def brute(user, passs):
